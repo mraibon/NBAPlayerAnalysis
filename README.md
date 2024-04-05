@@ -1,4 +1,4 @@
-# NBA Player Stats Analysis
+# NBA Player Stats Analysis (1995-96, 2015-16, 2022-23)
 ## Objective
 Analyze shooting statistics for players in the NBA from the 1995-96, 2015-16, and 2022-23 seasons to determine correlation between certain stats, any particular player anomalies, how scoring has changed, and if there's any insights into team success.
 
